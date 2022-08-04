@@ -14,7 +14,6 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -39,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html5-css3-flexbox-mobilefirst-workflow-vanilla-js-QT68ja8vUZ)
-- Live Site URL: [Add live site URL here](https://todo-app-drab-zeta-54.vercel.app)
+- Solution URL: [View Solution](https://www.frontendmentor.io/solutions/html5-css3-flexbox-mobilefirst-workflow-vanilla-js-QT68ja8vUZ)
+- Live Site URL: [View Live Demo](https://todo-app-drab-zeta-54.vercel.app)
 
 ## My process
 
@@ -59,7 +58,7 @@ A large part of this project was made with functional programming and DOM manipu
 
 I had quite a lot of challenge trying to get the input values saved after the page is refreshed, so in the process of finding a solution, I actually got to learn about LOCAL_STORAGE, SESSIONS, AND COOKIES, which was to lot of fun to learn by the way :). I also learnt about the html <template> tag in the process and being able to import it in Js using importNode.
 
-To see how you can add code snippets, see below:
+See code snippets below:
 
 ```html
   <template id="task-template">
@@ -94,4 +93,3 @@ I intend to continue with the project sometimes soon by including a drag and dro
 - Frontend Mentor - [@adetoye-dev](https://www.frontendmentor.io/profile/adetoye-dev)
 - Twitter - [@adetoye_dev](https://www.twitter.com/adetoye_dev)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
